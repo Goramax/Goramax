@@ -1,4 +1,4 @@
-<h1 align=center>Bonjour👋 <br> Moi c'est Maxime <font size=3>(Goramax)</font></h1>
+<h1 align=center>Bonjour👋 <br> Moi, c'est Maxime <font size=3>(Goramax)</font></h1>
 
 ## Mes réseaux :
 [<img src="./assets/ln.png" width="50" height="50" alt="logo LinkedIn">](https://www.linkedin.com/in/maxime-malherbe/)
@@ -46,6 +46,10 @@
 [<img src="./assets/figma.png" width="50" height="50" alt="logo Figma">](https://www.figma.com/)
 &nbsp;
 [<img src="./assets/unity.png" width="50" height="50" alt="logo Unity">](https://unity.com/)
+&nbsp;
+[<img src="./assets/postman.png" width="50" height="50" alt="logo Postman">](https://www.postman.com/)
+&nbsp;
+[<img src="./assets/supabase.png" width="50" height="50" alt="logo Supabase">](https://supabase.com/)
 
 ## Certifications
 |[<img src="./assets/opquast.png" width="68" height="50" alt="Certification Opquast Niveau Expert 905 points sur 1000">](https://directory.opquast.com/fr/certificat/HZ63UJ/)|
