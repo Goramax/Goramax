@@ -1,4 +1,4 @@
-<h1 align=center>Bonjour, moi c'est Maxime (Goramax) 👋</h1>
+<h1 align=center>Bonjour👋 <br> Moi c'est Maxime <font size=3>(Goramax)</font></h1>
 
 ## Mes réseaux :
 [<img src="./assets/ln.png" width="50" height="50" alt="logo LinkedIn">](https://www.linkedin.com/in/maxime-malherbe/)
@@ -26,6 +26,8 @@
 [<img src="./assets/vue.png" width="50" height="50" alt="logo VueJS">](https://vuejs.org/)
 &nbsp;
 [<img src="./assets/angular.png" width="50" height="50" alt="logo Angular">](https://angular.io/)
+&nbsp;
+[<img src="./assets/nest.png" width="50" height="50" alt="logo NestJS">](https://nestjs.com/)
 
 ### Bases de données
 [<img src="./assets/mysql.png" width="50" height="50" alt="logo MySQL">](https://www.mysql.com/)
