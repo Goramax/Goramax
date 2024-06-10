@@ -1,13 +1,13 @@
-<h1 align=center>Bonjour👋 <br> Moi, c'est Maxime <font size=3>(Goramax)</font></h1>
+<h1 align=center>Hey👋 <br> I'm Goramax</h1>
 
-## Mes réseaux :
+## Socials :
 [<img src="./assets/ln.png" width="50" height="50" alt="logo LinkedIn">](https://www.linkedin.com/in/maxime-malherbe/)
 &nbsp;
 [<img src="./assets/ig.png" width="50" height="50" alt="logo Instagram">](https://www.instagram.com/maxime_malherbe/)
 <!-- [<img src="./assets/dc.png" width="50" height="50">](https://discord.gg/) -->
 
-## Langages et frameworks
-### Langages
+## Languages & frameworks
+### Languages
 [<img src="./assets/php.png" width="50" height="50" alt="logo PHP">](https://www.php.net/)
 &nbsp;
 [<img src="./assets/python.png" width="50" height="50" alt="logo Python">](https://www.python.org/)
@@ -29,12 +29,12 @@
 &nbsp;
 [<img src="./assets/nest.png" width="50" height="50" alt="logo NestJS">](https://nestjs.com/)
 
-### Bases de données
+### DBMS
 [<img src="./assets/mysql.png" width="50" height="50" alt="logo MySQL">](https://www.mysql.com/)
 &nbsp;
 [<img src="./assets/postgres.png" width="50" height="50" alt="logo PostgreSQL">](https://www.postgresql.org/)
 
-### Autres outils
+### Other tools
 [<img src="./assets/gitlab.png" width="50" height="50" alt="logo GitLab">](https://about.gitlab.com/)
 &nbsp;
 [<img src="./assets/github.png" width="50" height="50" alt="logo GitHub">](https://github.com/Goramax)
