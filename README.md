@@ -19,20 +19,29 @@
 [<img src="./assets/ts.png" width="50" height="50" alt="logo TypeScript">](https://www.typescriptlang.org/)
 
 ### Frameworks
-[<img src="./assets/dnet.png" width="50" height="50" alt="Logo dotNet">](https://docs.microsoft.com/en-us/dotnet/)
-&nbsp;
-[<img src="./assets/symfony.png" width="50" height="50" alt="logo Symfony">](https://symfony.com/)
+[<img src="./assets/frappe.png" width="50" height="50" alt="Logo Frappe">](https://frappe.io/framework)
 &nbsp;
 [<img src="./assets/vue.png" width="50" height="50" alt="logo VueJS">](https://vuejs.org/)
 &nbsp;
 [<img src="./assets/angular.png" width="50" height="50" alt="logo Angular">](https://angular.io/)
 &nbsp;
 [<img src="./assets/nest.png" width="50" height="50" alt="logo NestJS">](https://nestjs.com/)
+&nbsp;
+[<img src="./assets/dnet.png" width="50" height="50" alt="Logo dotNet">](https://docs.microsoft.com/en-us/dotnet/)
+&nbsp;
+[<img src="./assets/symfony.png" width="50" height="50" alt="logo Symfony">](https://symfony.com/)
 
 ### DBMS
 [<img src="./assets/mysql.png" width="50" height="50" alt="logo MySQL">](https://www.mysql.com/)
 &nbsp;
 [<img src="./assets/postgres.png" width="50" height="50" alt="logo PostgreSQL">](https://www.postgresql.org/)
+&nbsp;
+[<img src="./assets/sqlite.png" width="50" height="50" alt="logo SQLite">](https://sqlite.org/)
+
+### CMS
+[<img src="./assets/wordpress.png" width="50" height="50" alt="logo WordPress">](https://wordpress.org/)
+&nbsp;
+[<img src="./assets/prestashop.png" width="50" height="50" alt="logo PrestaShop">](https://www.prestashop.com/)
 
 ### Other tools
 [<img src="./assets/gitlab.png" width="50" height="50" alt="logo GitLab">](https://about.gitlab.com/)
@@ -52,6 +61,7 @@
 [<img src="./assets/supabase.png" width="50" height="50" alt="logo Supabase">](https://supabase.com/)
 
 ## Certifications
-|[<img src="./assets/opquast.png" width="68" height="50" alt="Certification Opquast Niveau Expert 905 points sur 1000">](https://directory.opquast.com/fr/certificat/HZ63UJ/)|
-|:---:|
-|905/1000|
+|[<img src="./assets/opquast.png" width="68" height="50" alt="Certification Opquast Niveau Expert 905 points sur 1000">](https://directory.opquast.com/fr/certificat/HZ63UJ/)|[<img src="./assets/toeic.png" width="68" height="50" alt="TOEIC 925 sur 990 (B2)">](https://www.etsglobal.org/fr/en/digital-score-report/E8A43938D3972027F185D8275BAA91E76470155078D9EE965BE161D44BD23EB8U3o2M1paT0wrNFQ0Qk5sdHl4Vm5ZalhrRFp1SW81Y3V2NXBZQUdMZklKT20xRk02)|
+|:---:|:---:|
+|905/1000|(B2) 925/990|
+
